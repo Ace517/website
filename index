@@ -1,3 +1,40 @@
 <!DOCTYPE html>
 <html>
+  <head>
+    <title>Solon Codes</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <main>
+      <div class="container">
+        <section id="header">
+          <h1>Solon Codes</h1>
+          <p>This is an example website created by your beloved Solon Codes officers to demonstrate website building.</p>
+        </section>
+
+        <section id="about">
+          <h2>About Us</h2>
+          <p>Solon Codes is a fun interactive club where we explore the world of coding together.</p>
+          <p>We’ll be learning languages like HTML, CSS, and more — and working on fun projects such as building websites and games!</p>
+        </section>
+        <img
+          src="https://png.pngtree.com/element_our/png/20181013/code-icon-design-vector-png_125856.jpg"
+          class="rounded-img"
+        />
+        <section id="join">
+          <h2>Join Us!</h2>
+          <p>We meet every other Tuesday after school in Mr.Mckeen's Computer Lab. All skill levels are welcome!</p>
+          <p>Google Classroom Code: <strong>psptwhr</strong></p>
+        </section>
+        <section id = "meet">
+          <h2>Meet the Officers</h2>
+          <address> 
+            President:  <a href="mailto:sunwoongkim26@solonschools.net">Sam Kim</a><br>
+            Vice President:  <a href="mailto:williamstella28@solonschools.net">William Stella</a><br>
+            Secretary:  <a href="mailto:darshpatel26@solonschools.net">Darsh Patel</a><br>
+            Public Relations:  <a href="mailto:manninglu28@solonschools.net">Manning Lu</a><br>
+          </address>
+        </div>
+    </main>
+  </body>
 </html>
