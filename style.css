@@ -1,0 +1,38 @@
+body {
+  background: linear-gradient(to bottom right, #ffbb33, #ff8800);
+  text-align: center;
+}
+
+main {
+  max-width: 900px;
+  margin: auto;
+  padding: 20px;
+}
+
+.container {
+  background: white;
+  color: black;
+  border-radius: 20px;
+  padding: 30px;
+  margin: 20px auto;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+}
+
+h1 {
+  color: navy;
+  font-family: 'Georgia', serif;
+  margin-bottom: 10px;
+}
+
+h2 {
+  color: #333;
+  margin-top: 30px;
+  margin-bottom: 10px;
+  font-family: 'Arial Black', sans-serif;
+}
+
+.rounded-img {
+  max-width: 100%;
+  border-radius: 8px;
+  margin: 15px 0;
+}
